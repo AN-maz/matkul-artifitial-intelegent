@@ -371,3 +371,9 @@ Steele, G. L., & Gabriel, R. P. (1993). The evolution of Lisp. *ACM SIGPLAN Noti
 Turing, A. M. (1950). Computing machinery and intelligence. *Mind*, 59(236), 433-460.
 
 UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence*. https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+
+
+bikin app, deadline 4 bulan 
+dinas 
+1. dokumen diskominfo sudah sama yuda irgi
+2. buat teknologi web app 
